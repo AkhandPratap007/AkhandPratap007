@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Aspiring Data Analyst | Backend Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkhandPratap007&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="C:\Users\akhand pratap\Pictures\Screenshots\Screenshot 2025-06-07 213421.png" alt="profile views" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - 📊 Skilled in **Excel, SQL, Python, Power BI, C++, Java**
 - 🌱 Currently exploring **AWS & Advanced Cloud Platforms**
 - 🎯 Goal: **Become a skilled Data Analyst with strong backend development skills**
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/akhand-pratap)** | **[Email](mailto:akhandpratapwork@gmail.com)**
+- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/akhandpratapsingh101/)** | **[Email](mailto:akp8128925@gmail.com)**
 
 ---
 
