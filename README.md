@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Aspiring Data Analyst | Backend Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="C:\Users\akhand pratap\Pictures\Screenshots\Screenshot 2025-06-07 213421.png" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AkhandPratap007&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
