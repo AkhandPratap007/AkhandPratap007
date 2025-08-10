@@ -54,21 +54,15 @@
 
 ---
 
-## 🔥 Fun Touch — Snake Eating Contributions
 
-<p align="center">
-  <img src="https://github.com/AkhandPratap007/AkhandPratap007/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/akhand-pratap" target="blank">
+<a href="https://www.linkedin.com/in/akhandpratapsingh101/" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
 </a>
-<a href="mailto:akhandpratapwork@gmail.com" target="blank">
+<a href="mailto:akp8128925@gmail.com" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
 </a>
 </p>
